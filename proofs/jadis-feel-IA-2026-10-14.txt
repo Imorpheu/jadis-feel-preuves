@@ -1,0 +1,14 @@
+PREUVE DE CRÉATION ET D'INTÉGRITÉ — JADIS FEEL
+
+Date de la preuve        : 2026-10-14T12:21:04Z
+Dépôt privé              : Imorpheu/jadis-feel-IA
+Auteur                   : Imorpheu
+Branche                  : socle-veritas
+Enregistrement           : ae7f0efef849aed0dbff18fa0520e5932b8f4165
+Date de l'enregistrement : 2026-10-14T16:03:34+04:00
+Signature                : signé
+Arbre Git                : 471df8fef60537292cf2841b54e66be5f93728f5
+Empreinte SHA-256        : a18a5bcb653927d32cb0fd32c5fb033a79b224da73d61d8a219e31c2d4e75898
+
+Ce dépôt ne contient pas le code source : seulement des empreintes, qui
+permettent de vérifier qu'une copie du code correspond à cette date.
